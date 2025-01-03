@@ -1,6 +1,7 @@
 # CS450_Computer_Graphics
 ## Topics: 
 ####  [Course Resource page](https://web.engr.oregonstate.edu/~mjb/cs550/ "CS450 Computer Graphics")
+#### Text book: Computer Graphics: Programming, Problem Solving,and Visual Communication by Steve Cunningham
 * Summary of the computer graphics process
 * Coordinate systems and the graphics pipeline
 * Drawing a 3D scene using OpenGL
