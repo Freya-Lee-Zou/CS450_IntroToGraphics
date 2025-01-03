@@ -27,7 +27,7 @@ There are total 6 projects and plus one final project.
 ### Project2:
 [View Project 2 PDF](Projects/Project2_Transformation/Project%20%232.pdf)
 ### Project3:
-[View Project 3 PDF](Projects/Project3_lightling/Project%20%233Lighting.pdf)
+[View Project 3 PDF](Projects/Project3_lightling/Project%20%233.pdf)
 ### Project4:
 [View Project 4 PDF](Projects/Project4_Description/Project%20%234.pdf) 
 ### Project5:
