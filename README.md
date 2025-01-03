@@ -29,7 +29,7 @@ There are total 6 projects and plus one final project.
 ### Project3:
 [View Project 3 PDF](Projects/Project3_lightling/Project%20%233.pdf)
 ### Project4:
-[View Project 4 PDF](Projects/Project4_Description/Project%20%234.pdf) 
+[View Project 4 PDF](Projects/Project4_keytimeAnimation/Project%20%234.pdf) 
 ### Project5:
 [View Project 5 PDF](Projects/Project5_Texture mapping/Project%20%235.pdf)
 ### Project6:
