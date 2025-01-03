@@ -31,7 +31,7 @@ There are total 6 projects and plus one final project.
 ### Project4:
 [View Project 4 PDF](Projects/Project4_keytimeAnimation/Project%20%234.pdf) 
 ### Project5:
-[View Project 5 PDF](Projects/Project5_Texture mapping/Project%20%235.pdf)
+[View Project 5 PDF](Projects/Project5_TextureMapping/Project%20%235.pdf)
 ### Project6:
 [View Project 6 PDF](Projects/Project6_Shaders/Project%20%236.pdf)
 ### Final project:
